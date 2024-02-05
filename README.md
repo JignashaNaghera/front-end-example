@@ -6,17 +6,10 @@ The React Login includes welcome section, input fields for username and password
 
 # Overview of the approach:
 
-# File Structure:
-The component is organized into a single file (Login.js) for simplicity.
-
-# Assets:
-Images used in the component (e.g., icons) are stored in the assets folder.
-
-# Styling:
-Tailwind CSS is used for styling, and responsive design.
-
-# Component Composition:
-The component is composed of smaller, reusable functions customInput and customButton
+File Structure: The component is organized into a single file (Login.js) for simplicity.
+Assets: Images used in the component (e.g., icons) are stored in the assets folder.
+Styling: Tailwind CSS is used for styling, and responsive design.
+Component Composition: The component is composed of smaller, reusable functions customInput and customButton
 
 # Getting Started with Create React App
 
